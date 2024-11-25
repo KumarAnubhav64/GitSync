@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.log
+.custom_git/
+venv
+test_repo
